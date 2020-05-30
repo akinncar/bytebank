@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+A transactions app.
 
 ## Getting Started
 
@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screens
 
-![Screen 1](https://i.ibb.co/59nb9wz/screenshot-2020-05-30-14-46-40-797.png)
-![Screen 1](https://i.ibb.co/9tkL3Wt/screenshot-2020-05-30-14-46-45-825.png)
-![Screen 1](https://i.ibb.co/JFts3t2/screenshot-2020-05-30-14-47-02-729.png)
+<p align="center">
+  <img src="https://i.ibb.co/59nb9wz/screenshot-2020-05-30-14-46-40-797.png" width="200">
+  <img src="https://i.ibb.co/9tkL3Wt/screenshot-2020-05-30-14-46-45-825.png" width="200">
+  <img src="https://i.ibb.co/JFts3t2/screenshot-2020-05-30-14-47-02-729.png" width="200">
+</p>
